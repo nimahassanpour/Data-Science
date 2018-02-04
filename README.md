@@ -1,5 +1,5 @@
 # Data-Science
-This repository contains several kinds of machine learning algorithms that I have written to analyze a dataset in Python. To do that I used the Numpy, Pandas, SKlearn, TensorFlow, and Keras. Below is the list of pedictin methods that I uploaded here:
+This repository contains several kinds of machine learning algorithms that I have written to analyze a dataset in Python. To do that I used the Numpy, Pandas, Scikit-Learn, TensorFlow, and Keras packages. Below is the list of pedictin methods that I uploaded here:
 
 - Logistic Regression
 - Linear Regression
